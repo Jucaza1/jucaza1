@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Juan Cano👋
+Industrial Technologies Engineer specialized in automation and robotics, with additional training in Web Application Development. Passionate about science and software, I always strive to integrate innovative solutions.
 
-<!--
-**Jucaza1/jucaza1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🛠️ Skills & Expertise
+- GO, Python, JavaScript, TypeScript
+- HTML, CSS, Tailwind
+- React, Next.js, Astro
 
-Here are some ideas to get you started:
+# 🌱 I’m currently learning
+- CI/CD integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💪 GYM enthusiast
+
+# 📫 How to reach me
+- Email: juan01cz@gmail.com
+
