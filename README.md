@@ -7,6 +7,7 @@ Industrial Technologies Engineer specialized in automation and robotics, with ad
 - React, Next.js, Astro
 
 ### 🌱 I’m currently learning
+- Rust
 - CI/CD integration
 
 ### 💪 GYM enthusiast
